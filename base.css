@@ -67,7 +67,7 @@
 }
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {
-  font-family: var(--font, "Roboto"), "Whitney";
+  font-family: var(--font, "Arial OS"), "Arial OS";
 }
 
 html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
